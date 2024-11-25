@@ -69,7 +69,7 @@ function App() {
         {/* Add Todo Section */}
         <div className="addTodo my-5 flex flex-col gap-4">
           <div className="text-lg font-bold">
-            <h1>Add a Todo</h1>
+            <h2>Add a Todo</h2>
           </div>
           <input
             onChange={handleChange}
